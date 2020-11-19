@@ -1,3 +1,8 @@
+title: Guide rattle
+
+author: Nicolas Allix & William Robache
+
+
 # Rattle
 ## Introduction
 **Rattle** est une GUI (graphical user interface) qui dépend du package **RGtk2**.
@@ -6,7 +11,9 @@
 
 **Rattle** présente les performances des modèles sous forme graphique.
 
-L'une des caractéristiques qui font l'intéret de **Rattle** est que les interactions de l'utilisateur sur le GUI sont enregistré en script R. Le script peut ensuite être utilisé et exécuté facilement en R indépendamment de l'interface Rattle.
+L'une des caractéristiques qui font l'intéret de **Rattle** est que les interactions de l'utilisateur sur le GUI sont enregistré en script R. Le script peut ensuite être utilisé et exécuté facilement en R indépendamment de l'interface **Rattle**.
+
+**Rattle** utilise une grande quantité de package afin de proposer le plus de posbilité dans la création d'algorithme de Data Mining.
 
 ## Installation
 
@@ -56,6 +63,8 @@ ___
 En cas d'erreur, il suffit généralement de re-fermer R Studio et de le ré-ouvrir.
 ___ -->
 ## Commande
+
+Rattle génére lui même du code R en fonction de ce qu'il exécute. Vous trouverez ci-dessous les différentes fonctionnalité pris en charge par Rattle.
 
 ### **calcInitialDigitDistr**
 
@@ -674,3 +683,16 @@ Il s'écrit :
 … : une ou plusieurs chaînes qui seront collées ensemble pour former le titre principal.
  
 vector : s'il faut renvoyer un vecteur comme résultat.
+
+
+# Sources
+
+[rattle.togaware.com](https://rattle.togaware.com/ "togaware")
+
+[Using the Rattle Package with R](https://www.dummies.com/programming/using-rattle-package-r/ "Using the Rattle Package with R")
+
+[rattle v5.4.0](https://www.rdocumentation.org/packages/rattle/versions/5.4.0 "rattle v5.4.0")
+
+[cran.r-project.org](https://cran.r-project.org/web/packages/rattle/vignettes/rattle.pdf "cran.r-project.org")
+
+[Rattle - Data Mining in R](https://youtu.be/ARGfOHPVERc "Rattle - Data Mining in R")
