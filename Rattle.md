@@ -1,4 +1,4 @@
-title: Guide rattle
+title: Guide Rattle
 
 author: Nicolas Allix & William Robache
 
