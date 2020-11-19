@@ -2,8 +2,10 @@ title: Guide rattle
 
 author: Nicolas Allix & William Robache
 
-
 # Rattle
+
+Pour commencer : [vidéo d'introduction](https://www.loom.com/share/be0f87ca04374674b03f440e28132715 "Introduction du guide")
+
 ## Introduction
 **Rattle** est une GUI (graphical user interface) qui dépend du package **RGtk2**.
 
